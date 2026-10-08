@@ -1,0 +1,31 @@
+Column 1,Customer Name,Purchase Date,Product ID,Product Category,Amount
+,Alice Johnson,9/1/2026,PROD101,Electronics,2500
+,VINA K,9/1/2026,PROD105,Clothing,1000
+,Charlie Brown,9/2/2026,PROD201,Electronics,12000
+,CY Jams,9/3/2026,PROD102,Home & Kitchen,1200
+,bright smart,9/10/2026,PROD301,Books,100
+,foran frank,9/9/2026,PROD103,Electronics,1200
+,TAM. TAM,10/4/2026,PROD401,Beauty,25
+,JAMES BROWN,10/3/2026,PROD105,Clothing,25
+,Ian Malcolm,10/5/2026,PROD202,Home & Kitchen,150
+,Julia Roberts,10/5/2026,PROD101,Electronics,250
+,Amina Bello,10/1/2026,PROD101,Electronics,250
+,Chidi Okonkwo,10/3/2026,PROD105,Clothing,25
+,Babajide Adeleke,9/23/2026,PROD102,Electronics,1200
+,Nneka Eze,9/11/2026,PROD201,Home & Kitchen,100
+,Emeka Danjuma,9/18/2026,PROD301,Books,25
+,Funke Akindele,9/16/2026,PROD103,Electronics,1000
+,Gbenga Olawale,9/16/2026,PROD401,Beauty,150
+,Hadiza Abubakar,9/13/2026,PROD105,Clothing,2500
+,Ibrahim Musa,10/2/2026,PROD202,Home & Kitchen,12000
+,Blessing Okon,10/3/2026,"PROD101,",Electronics,1200
+,Kalu Nwosu,9/15/2026,PROD302,Books,25
+,Latifah Usman,9/22/2026,PROD104,Electronics,2500
+,Latifah Usman,9/29/2026,PROD102,Electronics,1200
+,Mustapha Balogun,9/22/2026,PROD201,Home & Kitchen,100
+,Mustapha Balogun,10/2/2026,PROD203,Home & Kitchen,12000
+,Ngozi Chukwu,9/22/2026,PROD402,Beauty,150
+,Ngozi Chukwu,9/22/2026,PROD104,Electronics,2500
+,Olamide Fashola,9/21/2026,PROD105,Clothing,25
+,Olamide Fashola,10/1/2026,PROD106,Clothing,1000
+,CY James,9/17/2026,PROD301,Books,250
